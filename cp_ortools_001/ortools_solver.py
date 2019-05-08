@@ -1,3 +1,10 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+# The MIT License (MIT)
+#
+# Copyright (c) 2019 Qi Wang
+
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
